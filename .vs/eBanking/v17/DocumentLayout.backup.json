@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Files\\Programming\\C#\\eBanking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|d:\\files\\programming\\c#\\ebanking\\main customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|solutionrelative:main customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|D:\\Files\\Programming\\C#\\eBanking\\eBanking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|solutionrelative:eBanking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|D:\\Files\\Programming\\C#\\eBanking\\ebanking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|solutionrelative:ebanking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|D:\\Files\\Programming\\C#\\eBanking\\New Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|solutionrelative:New Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|D:\\Files\\Programming\\C#\\eBanking\\new account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|solutionrelative:new account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|D:\\Files\\Programming\\C#\\eBanking\\main customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|solutionrelative:main customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|D:\\Files\\Programming\\C#\\eBanking\\New Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|solutionrelative:New Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|D:\\Files\\Programming\\C#\\eBanking\\new transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD98175-93A4-495E-9ECC-A1C275DF64CE}|eBanking.csproj|solutionrelative:new transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "eBanking.cs",
+              "DocumentMoniker": "D:\\Files\\Programming\\C#\\eBanking\\eBanking.cs",
+              "RelativeDocumentMoniker": "eBanking.cs",
+              "ToolTip": "D:\\Files\\Programming\\C#\\eBanking\\eBanking.cs",
+              "RelativeToolTip": "eBanking.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAADwv3wAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:18:45.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "eBanking.cs [Design]",
+              "DocumentMoniker": "D:\\Files\\Programming\\C#\\eBanking\\eBanking.cs",
+              "RelativeDocumentMoniker": "eBanking.cs",
+              "ToolTip": "D:\\Files\\Programming\\C#\\eBanking\\eBanking.cs [Design]",
+              "RelativeToolTip": "eBanking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-21T17:18:47.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "New Account.cs",
+              "DocumentMoniker": "D:\\Files\\Programming\\C#\\eBanking\\New Account.cs",
+              "RelativeDocumentMoniker": "New Account.cs",
+              "ToolTip": "D:\\Files\\Programming\\C#\\eBanking\\New Account.cs",
+              "RelativeToolTip": "New Account.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswCYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:18:47.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "New Account.cs [Design]",
+              "DocumentMoniker": "D:\\Files\\Programming\\C#\\eBanking\\New Account.cs",
+              "RelativeDocumentMoniker": "New Account.cs",
+              "ToolTip": "D:\\Files\\Programming\\C#\\eBanking\\New Account.cs [Design]",
+              "RelativeToolTip": "New Account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-21T17:18:47.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main Customer.cs",
+              "DocumentMoniker": "D:\\Files\\Programming\\C#\\eBanking\\Main Customer.cs",
+              "RelativeDocumentMoniker": "Main Customer.cs",
+              "ToolTip": "D:\\Files\\Programming\\C#\\eBanking\\Main Customer.cs",
+              "RelativeToolTip": "Main Customer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:18:47.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main Customer.cs [Design]",
+              "DocumentMoniker": "D:\\Files\\Programming\\C#\\eBanking\\Main Customer.cs",
+              "RelativeDocumentMoniker": "Main Customer.cs",
+              "ToolTip": "D:\\Files\\Programming\\C#\\eBanking\\Main Customer.cs [Design]",
+              "RelativeToolTip": "Main Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-21T17:18:47.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "New Transaction.cs",
+              "DocumentMoniker": "D:\\Files\\Programming\\C#\\eBanking\\New Transaction.cs",
+              "RelativeDocumentMoniker": "New Transaction.cs",
+              "ToolTip": "D:\\Files\\Programming\\C#\\eBanking\\New Transaction.cs",
+              "RelativeToolTip": "New Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:18:47.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "New Transaction.cs [Design]",
+              "DocumentMoniker": "D:\\Files\\Programming\\C#\\eBanking\\New Transaction.cs",
+              "RelativeDocumentMoniker": "New Transaction.cs",
+              "ToolTip": "D:\\Files\\Programming\\C#\\eBanking\\New Transaction.cs [Design]",
+              "RelativeToolTip": "New Transaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-21T17:18:47.433Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
